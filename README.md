@@ -19,6 +19,6 @@ The model is trained using a training dataset split from the original dataset, a
 <p>Accuracy graph: This graph shows how accurately the model is able to classify the data. A higher accuracy indicates better performance.</p>
 <p>Recall and Precision graphs: These graphs evaluate the model's ability to correctly identify positive instances. Recall measures the proportion of actual positives that were identified correctly, while precision measures the proportion of predicted positives that were actually correct.</p>
 
-<a href="(https://www.kaggle.com/code/melikesevin/dl-fishclassification)">You can view and try the project using the Kaggle link here.</a>
+<a href="https://www.kaggle.com/code/melikesevin/dl-fishclassification">You can view and try the project using the Kaggle link here.</a>
 
 <a href="https://medium.com/@melikee.sevinc/fish-species-classification-project-with-deep-learning-1b23969e8ce9">Click here to read the project article</a>
