@@ -9,6 +9,7 @@ The project utilizes a deep learning model comprised of the following fundamenta
 <p>Hidden Layers: One or two Dense layers, each consisting of 128 nodes and using the 'relu' activation function.</p>
 <p>Dropout Layer: Added with a 20% dropout rate to prevent overfitting.</p>
 <p>Output Layer: Contains a Dense layer with a softmax activation function to classify 9 different fish species.</p>
+
 ## Model Creation Function
 The model is created using the create_model function, which allows for customization of the number of layers, units per layer, dropout rate, and optimizer. The default configuration includes two hidden layers, each with 128 units and a dropout rate of 30%. The Adam optimizer is used for compiling the model.
 ## Training the Model
